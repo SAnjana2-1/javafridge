@@ -1,6 +1,6 @@
 # 🧊 Virtual Fridge Management System  
 
-🚀 A **Spring Boot** application that helps users track their fridge inventory and monitor expiry dates of stored items. Stay organized and reduce food waste!  
+🚀 A **Spring Boot** application that helps users track their fridge inventory and monitor expiry dates of stored items. The application notifies whenever vegeies are about to get expire, also one can always check what to buy after checking the inventory. Stay organized and reduce food waste!  
 
 ## 📌 Features  
 ✅ **Add, Update & Remove Items** – Keep track of all stored food items  
